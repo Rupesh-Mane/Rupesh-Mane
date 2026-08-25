@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.png" width="1200" alt="Machine Learning Banner">
+</p>
+
+
 <h1 align="center">Hi there, I'm Rupesh Mane 👋</h1>
 <h3 align="center">Machine Learning Engineer</h3>
 <p align="center">Building end-to-end ML systems — from data to deployment</p>
